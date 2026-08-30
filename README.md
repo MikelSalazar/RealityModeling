@@ -1,4 +1,3 @@
-# Reality Modeling Language (RML)
+# Reality Modeling
 
-A research project of the MSF Real/Virtual Wold Integration Group focused on 
-creating a formal language to facilitate the modeling of reality layers.
+A research project of the MSF Spatial Computing Group, focused on facilitating the description of reality.
